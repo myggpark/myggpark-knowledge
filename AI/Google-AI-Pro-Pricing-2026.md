@@ -350,4 +350,4 @@ Gemini、Gmail、Docs、NotebookLM 的联动能力具有明显优势。
 
 ---
 
-**本文首发于 [myggpark.com](https://www.myggpark.com)，转载请注明出处。**
+**本文首发于 [myggpark.com](https://www.myggpark.com/ai-tools/gemini-ai-tools/2900.html)，转载请注明出处。**
