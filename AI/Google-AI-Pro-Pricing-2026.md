@@ -189,7 +189,7 @@ Google AI 目前仍处于全球推广阶段。
 * 输入信用卡资料以及当地的地址和邮政编码区号。
 ![Google AI Pro 埃及区价格](images/google-ai-pro-egypt-subscription-guide.png)
 
-你可以使用网上提供的 **[地址自动生成器]**(https://cn.americaaddress.com/egypt-address/)来获取相应地区的地址和邮政编码。
+你可以使用网上提供的 **[地址自动生成器]**(https://cn.americaaddress.com/egypt-address/).来获取相应地区的地址和邮政编码。
 
 完成订阅后，Google将每月从你的信用卡中自动扣款。
 
