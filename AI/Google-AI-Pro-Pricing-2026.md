@@ -70,17 +70,9 @@ Google AI Pro 相当于将 ChatGPT Plus、Midjourney AI、Notion AI 与云存储
 
 以下价格为公开资料整理，仅供参考。
 
-### Google AI Pro 埃及区价格
-
-![Google AI Pro 埃及区价格](images/google-ai-pro-egypt-subscription-guide.png)
-
 ### Google AI Pro 官方价格表
 
 ![Google AI Pro 官方价格表](images/google-ai-pro-pricing-table-2026.jpg)
-
-### Google AI Pro 土耳其区价格
-
-![Google AI Pro 土耳其区价格](images/google-ai-pro-turkey-ios-subscription-guide-2026.jpg)
 
 ### 价格解读
 
@@ -147,9 +139,9 @@ Google AI 目前仍处于全球推广阶段。
 
 相对低价地区主要集中在：
 
-埃及
-菲律宾
-土耳其（波动较大）
+* 埃及
+* 菲律宾
+* 土耳其（波动较大）
 
 但需要注意：
 
@@ -157,9 +149,9 @@ Google AI 目前仍处于全球推广阶段。
 
 因为Google 近两年持续加强：
 
-支付资料验证
-地区一致性检测
-Google Payment Profile风控
+* 支付资料验证
+* 地区一致性检测
+* Google Payment Profile风控
 
 因此：
 
@@ -179,7 +171,7 @@ Google Payment Profile风控
 
 ### 方法1：官方低价区订阅（直接）
 
-示例：埃及低价区
+示例： **埃及**低价区
 
 核心条件：
 
@@ -192,9 +184,9 @@ Google Payment Profile风控
 
 订阅流程：
 
-前往Google AI官网
-点击订阅Google AI Pro方案
-输入信用卡资料以及当地的地址和邮政编码区号。
+* 前往Google AI官网
+* 点击订阅Google AI Pro方案
+* 输入信用卡资料以及当地的地址和邮政编码区号。
 ![Google AI Pro 埃及区价格](images/google-ai-pro-egypt-subscription-guide.png)
 
 你可以使用网上提供的 **[地址自动生成器]**(https://cn.americaaddress.com/egypt-address/)来获取相应地区的地址和邮政编码。
@@ -214,11 +206,11 @@ Google Payment Profile风控
 
 订阅流程：
 
-土耳其Apple ID登录App Store;
-购买土耳其礼品卡并充值；
-下载Gemini App并登录；
-点击订阅Google AI Pro方案；
-利用App Store余额付款并订阅。
+* 土耳其Apple ID登录App Store;
+* 购买土耳其礼品卡并充值；
+* 下载Gemini App并登录；
+* 点击订阅Google AI Pro方案；
+* 利用App Store余额付款并订阅。
 ![Google AI Pro 土耳其区价格](images/google-ai-pro-turkey-ios-subscription-guide-2026.jpg)
 
 ### 方法3：Pixel免费计划（隐藏福利）
@@ -238,7 +230,6 @@ Pixel 10 Pro Fold
 Pixel Pro系列机型可获得 Google AI Pro 试用权益。具体机型、试用时长及地区政策请以 Google 官方活动页面为准。
 
 这个试用权益指部分地区用户在Pixel 设备激活后，可在Gemini App或 Google One App内免费领取Google AI Pro一年会员。
-
 
 具体可参考官方资料： **![Pixel设备专属的Google One 优惠**(https://support.google.com/gemini/answer/13529884?hl=zh-Hans)
 
@@ -271,9 +262,9 @@ Google近两年逐步将Gemini Advanced整合进Google AI Pro计划中。
 
 但很多用户会遇到：
 
-地区限制
-信用卡失败
-Payment Profile异常
+* 地区限制
+* 信用卡失败
+* Payment Profile异常
 
 因此实际成功率与账号环境和付款方式有关。
 
@@ -283,9 +274,9 @@ Payment Profile异常
 
 但领取资格通常与：
 
-设备型号
-地区
-Google账号状态
+* 设备型号
+* 地区
+* Google账号状态
 
 有关。
 
@@ -293,15 +284,15 @@ Google账号状态
 
  **Q5：中国用户应该优先选择低价区吗？**
 
-未必。
+ **未必**。
 
 从实际使用角度来看：
 
 很多用户后期更关注：
 
-付款成功率
-长期续费稳定性
-账号安全
+* 付款成功率
+* 长期续费稳定性
+* 账号安全
 
 而不仅仅是价格便宜几十元。
 
@@ -311,11 +302,11 @@ Google账号状态
 
 如果你的主要用途包括：
 
-AI 搜索
-AI 写作
-AI 编程
-视频生成
-Google Workspace 办公
+* AI 搜索
+* AI 写作
+* AI 编程
+* 视频生成
+* Google Workspace 办公
 
 那么 Google AI Pro 目前仍然属于全球最有竞争力的 AI 套餐之一。
 
