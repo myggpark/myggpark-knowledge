@@ -184,7 +184,7 @@ Google AI 目前仍处于全球推广阶段。
 
 订阅流程：
 
-* 前往Google AI官网
+* 前往[**Google AI官网**](https://gemini.google/)
 * 点击订阅Google AI Pro方案
 * 输入信用卡资料以及当地的地址和邮政编码区号。
 ![Google AI Pro 埃及区价格](images/google-ai-pro-egypt-subscription-guide.png)
