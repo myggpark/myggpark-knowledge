@@ -179,8 +179,8 @@ Google AI 目前仍处于全球推广阶段。
 
 2、设置Google Payment的支付国家在埃及
 
- **推荐阅读**：
-【[比特指纹浏览器详细使用教程](https://www.myggpark.com/digital-migration/cross-border-tools/956.html)】（文章PIA S5 Proxy IP代理已经过期，换成别的代理即可）
+ 【**推荐阅读**】：
+[比特指纹浏览器详细使用教程](https://www.myggpark.com/digital-migration/cross-border-tools/956.html)（文章PIA S5 Proxy IP代理已经过期，换成别的代理即可）
 
 订阅流程：
 
