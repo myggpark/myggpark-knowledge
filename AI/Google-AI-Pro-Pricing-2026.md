@@ -12,4 +12,4 @@
 
 ![土耳其区价格](images/google-ai-pro-turkey-ios-subscription-guide-2026.jpg)
 
-![埃及区价格](AI/images/google-ai-pro-egypt-subscription-guide.png)
+![埃及区价格](images/google-ai-pro-egypt-subscription-guide.png)
