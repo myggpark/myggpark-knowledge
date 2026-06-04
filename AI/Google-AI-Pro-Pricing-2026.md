@@ -232,11 +232,11 @@ Pixel Pro系列机型可获得 Google AI Pro 试用权益。具体机型、试�
 
 这个试用权益指部分地区用户在Pixel 设备激活后，可在Gemini App或 Google One App内免费领取Google AI Pro一年会员。
 
-具体可参考官方资料： **![Pixel设备专属的Google One 优惠**(https://support.google.com/gemini/answer/13529884?hl=zh-Hans)
+具体可参考官方资料： [**Pixel设备专属的Google One 优惠**](https://support.google.com/gemini/answer/13529884?hl=zh-Hans)
 
 
  **如果你没有购买Pixel相关型号手机，可不可以享受这项隐藏的福利呢？答案是肯定的，如果不想自己折腾，这里有可以争取这项福利的代劳服务：**
-  **![Pixel设备专属的Google One 1年优惠代订福利**(https://www.guokezhihui.com/buy/182)
+  [**Pixel设备专属的Google One 1年优惠代订福利**](https://www.guokezhihui.com/buy/182)
 
 
 ---
