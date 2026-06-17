@@ -130,7 +130,7 @@
 
 而一个已经存在多年并产生过正常消费行为的账号，本身就更接近真实用户的使用状态。
 
-因此很多跨境从业者、开发者以及海外服务使用者，更愿意选择拥有一定消费历史记录的Apple ID。
+因此很多跨境从业者、开发者以及海外服务使用者，更愿意选择拥有一定 **[消费历史记录的Apple ID](https://accssupply.com/products/apple-id-with-purchase-history)**。
 
 ---
 
@@ -170,6 +170,7 @@
 👉 可长期稳定使用的账号  
 
 ![如何判断Apple ID是否可靠](images/how-to-identify-reliable-purchase-history-apple-id.webp)
+
 ---
 
 ### ❌ 2. 到手后必须及时修改安全信息
@@ -185,7 +186,7 @@
 
 👉 建议 **一周内**完成调整，避免风控问题
 
- **【推荐阅读】**
+ **【推荐阅读】**：
 
 [手把手教你如何更改Apple ID密码/密保/个人资料](https://www.myggpark.com/apple-ecosystem/apple-id/1393.html)
 
