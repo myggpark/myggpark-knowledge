@@ -11,7 +11,7 @@
 
 ---
 
-![Apple ID空白号与带消费记录Apple ID对比](images/Apple ID消费记录示意图-土耳其.webp)
+![Apple ID空白号与带消费记录Apple ID对比](images/apple-id-account-types-comparison.webp)
 
 ---
 
