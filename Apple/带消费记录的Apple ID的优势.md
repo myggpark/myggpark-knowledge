@@ -91,7 +91,7 @@
 
 ---
 
-![Apple ID付款信息验证失败](https://www.myggpark.com/wp-content/uploads/2026/06/2026061010431357-scaled.webp)
+![Apple ID付款信息验证失败](images/apple-id-payment-verification-error.webp)
 
 ---
 
