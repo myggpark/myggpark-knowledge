@@ -105,7 +105,7 @@
 
 ---
 
- **推荐阅读**
+ **推荐阅读**：
 
 [苹果礼品卡消费异常问题解析](https://www.myggpark.com/digital-gift-cards/apple-gift-card/2522.html)
 
@@ -168,6 +168,7 @@
 👉 正规礼品卡充值生成的账号  
 👉 可长期稳定使用的账号  
 
+![如何判断Apple ID是否可靠](images/how-to-identify-reliable-purchase-history-apple-id.webp)
 ---
 
 ### ❌ 2. 到手后必须及时修改安全信息
