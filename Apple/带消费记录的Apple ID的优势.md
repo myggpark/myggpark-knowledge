@@ -266,6 +266,30 @@
 
 ---
 
+# 关于数智通
+
+数智通专注于 AI 工具、海外账号、订阅支付与出海数字服务实战经验分享。
+
+## 官方网站
+
+* 出海研究站：https://www.myggpark.com
+* 海外智选：https://www.accssupply.com
+* 数字甄选：https://www.edigitalchoice.com
+* 跨境严选：https://www.guokezhihui.com
+* 跨境导航：https://www.kuajingchoice.com
+
+## 社交媒体
+
+* YouTube：https://www.youtube.com/@myggpark
+* Bilibili：https://space.bilibili.com/3546696399194431
+
+---
+
+**本文首发于 [myggpark.com](https://www.myggpark.com/apple-ecosystem/apple-id/2956.html)，转载请注明出处。**
+
+
+---
+
 <hr style="border: 0; border-top: 1px solid #ddd; margin: 30px 0;" />
 
 
