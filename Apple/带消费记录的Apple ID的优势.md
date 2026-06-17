@@ -97,7 +97,7 @@
 
 但总体来看，拥有消费记录的账号，其使用画像更完整。
 
-在 [V2EX](https://v2ex.com/)、[Reddit](https://www.reddit.com/) 以及 Apple 社区（https://discussionschinese.apple.com/welcome）中，也能看到类似讨论。
+在 [V2EX](https://v2ex.com/)、[Reddit](https://www.reddit.com/) 以及 [Apple 社区]（https://discussionschinese.apple.com/welcome）中，也能看到类似讨论。
 
 长期经验表明：历史正常的账号，支付成功率通常更高。
 
