@@ -46,7 +46,7 @@
 
 ---
 
-![Apple ID消费记录示意图](https://www.myggpark.com/wp-content/uploads/2026/06/2026061010414399.webp)
+![Apple ID消费记录示意图](images/apple-id-consumption-turkey.webp)
 
 ---
 
