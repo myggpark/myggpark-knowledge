@@ -23,8 +23,11 @@
 ### 1.退出当前App Store 账号步骤
 
 **① 打开**iPhone的**【**设置**】**
+
 **② 点击**屏幕最上方**【**Apple Account**】头像**进入个人中心**
+
 **③在列表中找到并点击**【**媒体与购买项目**】**（**Media&Purchases**）**
+
 **④在弹出的菜单中，直接点击红色的【**退出登录**】**
 
 ![App Store如何切换账号（iOS18）](https://www.myggpark.com/wp-content/uploads/2026/07/2026070303264540.png)
