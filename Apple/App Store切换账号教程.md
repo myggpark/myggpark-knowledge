@@ -229,37 +229,28 @@ Apple ID密码输入错误
 
 ---
 
-**更多内容请参考：**
+# 关于数智通
 
-**数智通｜出海研究站**
-分享海外数字服务、AI工具、订阅支付与账号风控实战教程：[**myggpark.com**](http://www.myggpark.com)
+数智通专注于 AI 工具、海外账号、订阅支付与出海数字服务实战经验分享。
 
-**数智通｜海外智选**
-Google账号、AI工具及热门订阅服务：[**accssupply.com**](http://www.accssupply.com)
+## 官方网站
 
-**数智通｜数字甄选**
-Apple ID、礼品卡和游戏数字产品：**[edigitalchoice.com](http://www.edigitalchoice.com)**
+* 出海研究站：https://www.myggpark.com
+* 海外智选：https://www.accssupply.com
+* 数字甄选：https://www.edigitalchoice.com
+* 跨境严选：https://www.guokezhihui.com
+* 跨境导航：https://www.kuajingchoice.com
 
-**数智通｜跨境严选**
-跨境数字产品与海外实体电话卡：[**guokezhihui.com**](http://www.guokezhihui.com)
+## 社交媒体
 
-**数智通｜跨境导航**
-优质跨境工具、资源与服务导航： [**kuajingchoice.com**](http://www.kuajingchoice.com)
-
-**YouTube频道：**[**youtube.com/@myggpark**](https://www.youtube.com/%40myggpark)
-
-**B站频道：**[**space.bilibili.com/3546696399194431**](https://space.bilibili.com/3546696399194431)
+* YouTube：https://www.youtube.com/@myggpark
+* Bilibili：https://space.bilibili.com/3546696399194431
 
 ---
 
-## 关于数智通
+**本文首发于 [myggpark.com](https://www.myggpark.com/apple-ecosystem/apple-id/2975.html)，转载请注明出处。**
 
-专注于 AI 工具与跨境数字服务实战经验分享。
 
-主站内容：[myggpark.com](https://www.myggpark.com)
+---
 
-数字产品与服务：[accssupply.com](https://accssupply.com)
-
-YouTube：[youtube.com/@myggpark](https://www.youtube.com/@myggpark)
-
-Bilibili：[space.bilibili.com/3546696399194431](https://space.bilibili.com/3546696399194431)
+<hr style="border: 0; border-top: 1px solid #ddd; margin: 30px 0;" />
