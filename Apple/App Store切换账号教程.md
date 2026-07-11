@@ -48,6 +48,7 @@
 ## 二、哪些情况下我们需要切换App Store账号？
 
 对于国内的苹果用户而言，经常切换 App Store 账号通常是为了满足以下几种刚需场景：
+
 **1、下载海外独占应用**：如体验 ChatGPT Plus 官方App、Google Gemini、TikTok等国内未上架的软件。
 
 **2、跨区下载游戏**：切换至美区、日区、港区等海外Apple Account下载特定网络游戏。
