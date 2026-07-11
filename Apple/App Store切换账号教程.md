@@ -90,10 +90,12 @@
 ### ①提示"无法登录"或"Verification Failed"
 
 ![Apple ID无法登录Verification Failed错误](https://www.myggpark.com/wp-content/uploads/2026/07/2026070303323199.jpg)
+
 **可能原因：**
 网络波动异常
 Apple服务器临时故障
 Apple ID密码输入错误
+
 **解决办法：**
 ✅ 尝试切换网络环境（如从 Wi-Fi 换成 5G 蜂窝网络，或者关闭/更换科学上网节点）
 ✅ 确认Apple ID和密码输入正确
